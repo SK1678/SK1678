@@ -10,10 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Senior+Executive+-+IT;System+Administrator;ERP+%26+POS+Specialist;Full+Stack+Web+Developer;Odoo+Expert" width="100%" alt="Typing SVG" />
   </a>
 </span>
-<!-- TYPING ANIMATION -->
-<p align="center">
-  
-</p>
 
 <!-- VISITOR COUNTER & SOCIALS -->
 <p align="center">
