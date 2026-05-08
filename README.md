@@ -12,22 +12,22 @@
 
 <!-- SOCIAL ICONS -->
 <p align="center">
-  <a href="mailto:meher.nu.cse@gmail.com"><img src="https://img.icons8.com/color/48/000000/circled-envelope.png" alt="Email" /></a>
+  <a href="mailto:meher.nu.cse@gmail.com"><img src="https://img.icons8.com/color/48/000000/circled-envelope.png" alt="Email" width="36" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/meher-kanti-sarkar-5b135b191"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/meher-kanti-sarkar-5b135b191"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="36" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Facebook" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Facebook" width="36" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="36" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://meher.logimint.xyz/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website" /></a>
+  <a href="https://meher.logimint.xyz/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website" width="36" /></a>
 </p>
 
 ---
 
 ### 💫 About Me
 IT professional with 4+ years of experience in system administration, factory IT infrastructure, ERP systems, and enterprise software management. Skilled in computer hardware networking, troubleshooting, database administration, and IT security. Proven expertise in maintaining manufacturing systems, ensuring data protection, implementing backup/recovery solutions, and supporting automation. Strong track record of collaborating with vendors, integrating IT solutions, and ensuring compliance with organizational policies.
-
+![alt text](image.png)
 ---
 
 ### 🚀 Technical Stack
