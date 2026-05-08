@@ -3,28 +3,30 @@
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e75b6&text=Meher%20Kanti%20Sarkar&fontSize=60&fontAlign=50&fontAlignY=50" alt="Meher Kanti Sarkar" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Senior+Executive+-+IT;System+Administrator;ERP+%26+POS+Specialist;Full+Stack+Web+Developer;Odoo+Expert" width="100%" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4A90E2&text=Meher%20Kanti%20Sarkar&fontSize=60&fontAlign=50&fontAlignY=50" alt="Meher Kanti Sarkar" />
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1b3a57&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;ERP+ANALYST;SYSTEM+ADMINISTRATOR" alt="Typing SVG" />
+  </a>
 </p>
 
-
-<!-- VISITOR COUNTER & SOCIALS -->
+<!-- SOCIAL ICONS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SK1678&label=Profile%20Views&color=0e75b6&style=flat" alt="SK1678" />
-  <br><br>
-  <a href="mailto:meher.nu.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/meher-kanti-sarkar-5b135b191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://meher.logimint.xyz/"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:meher.nu.cse@gmail.com"><img src="https://img.icons8.com/color/48/000000/circled-envelope.png" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/meher-kanti-sarkar-5b135b191"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Facebook" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://meher.logimint.xyz/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website" /></a>
 </p>
 
 ---
 
 ### 💫 About Me
-I am an **IT Professional** with **4+ years of experience** managing enterprise IT operations at Fair Group. Expert in **ERP (Odoo)** and **IT Infrastructure Support**.
-
-- 🔭 Working at **Fair Group** as a System Administrator.
-- 🌱 Learning **Advanced SQL & Software Engineering**.
-- 💬 Ask me about **Odoo & Network Infrastructure**.
+IT professional with 4+ years of experience in system administration, factory IT infrastructure, ERP systems, and enterprise software management. Skilled in computer hardware networking, troubleshooting, database administration, and IT security. Proven expertise in maintaining manufacturing systems, ensuring data protection, implementing backup/recovery solutions, and supporting automation. Strong track record of collaborating with vendors, integrating IT solutions, and ensuring compliance with organizational policies.
 
 ---
 
