@@ -2,8 +2,8 @@
 <p align="center">
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
-<h1 align="center" style="font-size: 48px; font-weight: bold; color: darkblue;">
-  Meher Kanti Sarkar
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e75b6&text=Meher%20Kanti%20Sarkar&fontSize=60&fontAlign=50&fontAlignY=50" alt="Meher Kanti Sarkar" />
 </h1>
 <!-- TYPING ANIMATION -->
 <p align="center">
