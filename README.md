@@ -2,7 +2,9 @@
 <p align="center">
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
-
+<h1 align="center">
+  Meher Kanti Sarkar
+</h1>
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
