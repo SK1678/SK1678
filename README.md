@@ -1,6 +1,6 @@
 <!-- START HEADER - FULL WIDTH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Meher%20Kanti%20Sarkar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Executive%20-%20IT%20(System%20Admin)&descAlignY=55&descSize=25" width="100%" />
+  <img src="Assets/images/banar.gif" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
