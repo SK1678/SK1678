@@ -4,12 +4,9 @@
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e75b6&text=Meher%20Kanti%20Sarkar&fontSize=60&fontAlign=50&fontAlignY=50" alt="Meher Kanti Sarkar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Senior+Executive+-+IT;System+Administrator;ERP+%26+POS+Specialist;Full+Stack+Web+Developer;Odoo+Expert" width="100%" alt="Typing SVG" />
 </p>
-<span align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Senior+Executive+-+IT;System+Administrator;ERP+%26+POS+Specialist;Full+Stack+Web+Developer;Odoo+Expert" width="100%" alt="Typing SVG" />
-  </a>
-</span>
+
 
 <!-- VISITOR COUNTER & SOCIALS -->
 <p align="center">
