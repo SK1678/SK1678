@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
-<h1 align="center" style="font-size: 48px; font-weight: bold; color: Red;">
+<h1 align="center" style="font-size: 48px; font-weight: bold; color: darkblue;">
   Meher Kanti Sarkar
 </h1>
 <!-- TYPING ANIMATION -->
