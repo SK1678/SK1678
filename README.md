@@ -2,8 +2,8 @@
 <p align="center">
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=60&pause=1000&color=0078D6&center=true&vCenter=true&width=800&lines=Meher+Kanti+Sarkar" alt="Meher Kanti Sarkar" />
+<h1 align="center" style="font-size: 48px; font-weight: bold; color: Red;">
+  Meher Kanti Sarkar
 </h1>
 <!-- TYPING ANIMATION -->
 <p align="center">
