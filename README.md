@@ -3,8 +3,8 @@
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&duration=4000&lines=I'm+Prothes+Barai" alt="I'm+Prothes Barai" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Software+Engr.;Flutter+Expart;Front-end+Expart;Wordpress+Expert;Java+Expart;Python+Expart;Firebase+Expart;SQL+Expart;" />     
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&duration=4000&lines=I'm+Meher+Kanti Sarkar" alt="I'm+Prothes Barai" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Full+Stack+Developer.;ERP+Analist;Wordpress+Expert;Java+Expart;Python+Expart;C+Expart;SQL+Expart;Laravel+Expart;" />     
 </h1> 
 
 <!-- SOCIAL ICONS -->
