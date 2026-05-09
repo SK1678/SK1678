@@ -82,15 +82,22 @@ I enjoy working on scalable software, solving real-world business problems, and 
 - AI Integration in Business Systems
 - Scalable System Design
 
----
-
 ### ⚡ Fun Fact
 
 > I enjoy turning complex business processes into simple automated systems.
 
+---
+### 🏆 Certifications & Awards
+- 📜 **Software Engineering & SQL Advanced** - HackerRank
+- 🏥 **Hospital Management System** - Records & Billing.
+- 🏪 **Digital Store Management System** - Inventory & Sales.
 
 ---
+### 🏆 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SK1678&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -102,12 +109,7 @@ I enjoy working on scalable software, solving real-world business problems, and 
 
 ---
 
-### 🏆 Certifications & Projects
-- 📜 **Software Engineering & SQL Advanced** - HackerRank
-- 🏥 **Hospital Management System** - Records & Billing.
-- 🏪 **Digital Store Management System** - Inventory & Sales.
 
----
 
 <!-- FULL WIDTH FOOTER -->
 <p align="center">
