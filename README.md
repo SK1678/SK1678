@@ -102,7 +102,8 @@ I enjoy working on scalable software, solving real-world business problems, and 
 
 <div align="center">
   <!-- FULL WIDTH STATS CARDS -->
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=SK1678&show_icons=true&theme=tokyonight&hide_border=true&v=1&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK1678&layout=compact&theme=tokyonight&hide_border=true&v=1" width="49%" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SK1678&theme=tokyonight&hide_border=true&v=1" width="100%" />
 </div>
