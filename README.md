@@ -2,13 +2,10 @@
 <p align="center">
   <img src="Assets/images/banar.gif" width="100%" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4A90E2&text=Meher%20Kanti%20Sarkar&fontSize=60&fontAlign=50&fontAlignY=50" alt="Meher Kanti Sarkar" />
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1b3a57&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;ERP+ANALYST;SYSTEM+ADMINISTRATOR" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&duration=4000&lines=I'm+Prothes+Barai" alt="I'm+Prothes Barai" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Software+Engr.;Flutter+Expart;Front-end+Expart;Wordpress+Expert;Java+Expart;Python+Expart;Firebase+Expart;SQL+Expart;" />     
+</h1> 
 
 <!-- SOCIAL ICONS -->
 <p align="center">
