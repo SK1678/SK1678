@@ -95,7 +95,8 @@ I enjoy working on scalable software, solving real-world business problems, and 
   <a href="https://www.hackerrank.com/certificates/7b5e6fe93eca"><img src="https://img.shields.io/badge/Skill-SQL_%28Advanced%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Advanced" /></a>
   <a href="https://www.hackerrank.com/certificates/793903528142"><img src="https://img.shields.io/badge/Skill-JavaScript_%28Basic%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="JavaScript Basic" /></a>
   <a href="https://www.hackerrank.com/certificates/793903528142"><img src="https://img.shields.io/badge/Skill-Java_%28Intermediat%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Intermediat" /></a>
-  <a href="Assets\docs\Certificate_of_Mobile_Application_Development.pdf"><img src="https://img.shields.io/badge/Skill-Mobile%20Application%20Development-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Mobile Application Development" /></a>
+  <a href="Assets\docs\Certificate_of_Web_Application_Development.pdf"><img src="https://img.shields.io/badge/Skill-Web%20Application%20Development-a31aff?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Web Application Development (PHP/Laravel)" /></a>
+  <a href="Assets\docs\Certificate_of_Mobile_Application_Development.pdf"><img src="https://img.shields.io/badge/Skill-Mobile%20Application%20Development-a31aff?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Mobile Application Development (Flutter)" /></a>
 </p>
 
 ---
