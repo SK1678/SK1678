@@ -89,25 +89,12 @@ I enjoy working on scalable software, solving real-world business problems, and 
 ## 🏅 Certifications & Achievements
 
 <p align="center">
-  <a href="https://www.hackerrank.com/certificates/539385f9c36b">
-    <img src="https://img.shields.io/badge/Role-Software_Engineer-003A70?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/your-id">
-    <img src="https://img.shields.io/badge/Skill-SQL_%28Basic%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Basic" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/your-id">
-    <img src="https://img.shields.io/badge/Skill-SQL_%28Intermediate%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Intermediate" />
-  </a>
-  <br><br>
-  <a href="https://www.hackerrank.com/certificates/your-id">
-    <img src="https://img.shields.io/badge/Skill-SQL_%28Advanced%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Advanced" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/your-id">
-    <img src="https://img.shields.io/badge/Skill-JavaScript_%28Basic%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="JavaScript Basic" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/your-id">
-    <img src="https://img.shields.io/badge/Skill-Java_%28Problem_Solving%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Problem Solving" />
-  </a>
+  <a href="https://www.hackerrank.com/certificates/539385f9c36b"><img src="https://img.shields.io/badge/Role-Software_Engineer-003A70?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer" /></a>
+  <a href="https://www.hackerrank.com/certificates/your-id"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Basic" /></a>
+  <a href="https://www.hackerrank.com/certificates/your-id"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Intermediate" /></a>
+  <a href="https://www.hackerrank.com/certificates/your-id"><img src="https://img.shields.io/badge/Skill-SQL_%28Advanced%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Advanced" /></a>
+  <a href="https://www.hackerrank.com/certificates/your-id"><img src="https://img.shields.io/badge/Skill-JavaScript_%28Basic%29-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="JavaScript Basic" /></a>
+  <a href="https://www.hackerrank.com/certificates/your-id"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Problem Solving" /></a>
 </p>
 
 ---
