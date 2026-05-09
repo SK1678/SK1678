@@ -35,9 +35,7 @@ I enjoy working on scalable software, solving real-world business problems, and 
 ⚙️ **Create Business Automation Solutions** &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🗄️ **Design Database Architectures & Reports** <br/>
 🧩 **Customize Odoo & Laravel Applications** &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📊 **Work with APIs, Dashboards & Analytics** <br/>
 
----
 ### 🛠 Core Technologies
-
 <p align="left">
 <strong>Backend :</strong>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -90,16 +88,6 @@ I enjoy working on scalable software, solving real-world business problems, and 
 
 > I enjoy turning complex business processes into simple automated systems.
 
-### 🚀 Technical Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
 ---
 
