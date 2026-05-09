@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&duration=4000&lines=I'm+Meher+Kanti+Sarkar" alt="I'm+Meher+Kanti+Sarkar" /><br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Full+Stack+Developer.;ERP+Analyst;Wordpress+Expert;Java+Expart;Python+Expart;C+Expart;SQL+Expart;Laravel+Expart;" />     
 </h1> 
-
 <!-- SOCIAL ICONS -->
 <p align="center">
   <a href="mailto:meher.nu.cse@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/circled-envelope.png" alt="Email" width="30" /></a>
@@ -29,13 +28,13 @@
 Hi, I'm **Meher Kanti Sarkar** — a passionate technology enthusiast focused on building modern web applications, ERP solutions, and business automation systems.
 I enjoy working on scalable software, solving real-world business problems, and learning new technologies that improve productivity and digital transformation.
 
-## 🚀 What I Do
+### 🚀 What I Do
 
 🌐 **Develop Full Stack Web Applications** &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🏢 **Build ERP & Payroll Management Systems** <br/>
 ⚙️ **Create Business Automation Solutions** &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🗄️ **Design Database Architectures & Reports** <br/>
 🧩 **Customize Odoo & Laravel Applications** &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📊 **Work with APIs, Dashboards & Analytics** <br/>
 
-### 🛠 Core Technologies
+#### 🛠 Core Technologies
 <p align="left">
 <strong>Backend :</strong>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
