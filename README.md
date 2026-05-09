@@ -31,20 +31,13 @@ I enjoy working on scalable software, solving real-world business problems, and 
 
 ## 🚀 What I Do
 
-<table width="100%" style="width: 100%; display: table; border: none; border-collapse: collapse; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🌐 Develop Full Stack Web Applications</td>
-    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🏢 Build ERP & Payroll Management Systems</td>
-  </tr>
-  <tr style="border: none; background-color: transparent;">
-    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">⚙️ Create Business Automation Solutions</td>
-    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🗄️ Design Database Architectures & Reports</td>
-  </tr>
-  <tr style="border: none; background-color: transparent;">
-    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🧩 Customize Odoo & Laravel Applications</td>
-    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">📊 Work with APIs, Dashboards & Analytics</td>
-  </tr>
-</table>
+- 🌐 **Develop Full Stack Web Applications**
+- 🏢 **Build ERP & Payroll Management Systems**
+- ⚙️ **Create Business Automation Solutions**
+- 🗄️ **Design Database Architectures & Reports**
+- 🧩 **Customize Odoo & Laravel Applications**
+- 📊 **Work with APIs, Dashboards & Analytics**
+
 ---
 ### 🛠 Core Technologies
 
