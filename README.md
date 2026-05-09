@@ -31,12 +31,9 @@ I enjoy working on scalable software, solving real-world business problems, and 
 
 ## 🚀 What I Do
 
-- 🌐 **Develop Full Stack Web Applications**
-- 🏢 **Build ERP & Payroll Management Systems**
-- ⚙️ **Create Business Automation Solutions**
-- 🗄️ **Design Database Architectures & Reports**
-- 🧩 **Customize Odoo & Laravel Applications**
-- 📊 **Work with APIs, Dashboards & Analytics**
+- 🌐 **Develop Full Stack Web Applications** &emsp;&emsp;&emsp;&emsp; 🏢 **Build ERP & Payroll Management Systems**
+- ⚙️ **Create Business Automation Solutions** &emsp;&emsp;&emsp;&nbsp; 🗄️ **Design Database Architectures & Reports**
+- 🧩 **Customize Odoo & Laravel Applications** &emsp;&emsp;&emsp; 📊 **Work with APIs, Dashboards & Analytics**
 
 ---
 ### 🛠 Core Technologies
