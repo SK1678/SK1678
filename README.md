@@ -87,10 +87,27 @@ I enjoy working on scalable software, solving real-world business problems, and 
 > I enjoy turning complex business processes into simple automated systems.
 
 ---
-### 🏆 Certifications & Awards
-- 📜 **Software Engineering & SQL Advanced** - HackerRank
-- 🏥 **Hospital Management System** - Records & Billing.
-- 🏪 **Digital Store Management System** - Inventory & Sales.
+## 🏅 Certifications & Achievements
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/certificates/your-id">
+  <img src="https://img.shields.io/badge/Java-Problem_Solving_Certificate-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
+</a>
+
+<a href="https://www.hackerrank.com/certificates/your-id">
+  <img src="https://img.shields.io/badge/SQL-Advanced_SQL_Certificate-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/certificates/your-id">
+  <img src="https://img.shields.io/badge/Python-Python_Certificate-0D1117?style=for-the-badge&logo=python&logoColor=yellow" />
+</a>
+
+<a href="https://www.hackerrank.com/certificates/your-id">
+  <img src="https://img.shields.io/badge/Laravel-Web_Development-0D1117?style=for-the-badge&logo=laravel&logoColor=red" />
+</a>
+
+</p>
 
 ---
 ### 🏆 GitHub Achievements
@@ -98,13 +115,10 @@ I enjoy working on scalable software, solving real-world business problems, and 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SK1678&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
+
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- FULL WIDTH STATS CARDS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SK1678&show_icons=true&theme=tokyonight&hide_border=true&v=1&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK1678&layout=compact&theme=tokyonight&hide_border=true&v=1" width="49%" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SK1678&theme=tokyonight&hide_border=true&v=1" width="100%" />
 </div>
 
