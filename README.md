@@ -29,51 +29,21 @@
 Hi, I'm **Meher Kanti Sarkar** — a passionate technology enthusiast focused on building modern web applications, ERP solutions, and business automation systems.
 I enjoy working on scalable software, solving real-world business problems, and learning new technologies that improve productivity and digital transformation.
 
----
 ## 🚀 What I Do
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr border="0">
-<td width="50%" border="0">
-
-🌐 Develop Full Stack Web Applications
-
-</td>
-
-<td width="50%" border="0">
-
-🏢 Build ERP & Payroll Management Systems
-
-</td>
-</tr>
-
-<tr border="0">
-<td width="50%" border="0">
-
-⚙️ Create Business Automation Solutions
-
-</td>
-
-<td width="50%" border="0">
-
-🗄️ Design Database Architectures & Reports
-
-</td>
-</tr>
-
-<tr border="0">
-<td width="50%" border="0">
-
-🧩 Customize Odoo & Laravel Applications
-
-</td>
-
-<td width="50%" border="0">
-
-📊 Work with APIs, Dashboards & Analytics
-
-</td>
-</tr>
+<table width="100%" style="width: 100%; display: table; border: none; border-collapse: collapse; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🌐 Develop Full Stack Web Applications</td>
+    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🏢 Build ERP & Payroll Management Systems</td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">⚙️ Create Business Automation Solutions</td>
+    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🗄️ Design Database Architectures & Reports</td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">🧩 Customize Odoo & Laravel Applications</td>
+    <td width="50%" style="border: none; background-color: transparent; padding: 10px 0;">📊 Work with APIs, Dashboards & Analytics</td>
+  </tr>
 </table>
 ---
 ### 🛠 Core Technologies
